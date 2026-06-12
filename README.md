@@ -123,4 +123,4 @@ Contributions are welcome from blockchain developers and educators. Fork the rep
 This project is licensed under the MIT License.
 
 ## Team
-- [Your Name] | [@telegram] | [email] | [University + Year]
+- Nguyen Minh Tri | ntri4747@gmail.com | Saigontech 2026
